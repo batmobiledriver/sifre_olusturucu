@@ -1,6 +1,6 @@
-# Python HWID Auth
+# Python Sifre_oluşturucu
 
-- Protects your app from unauthorized users by using their HWIDs
+- Şifre oluşturabilirsiniz
 
 # Usage
 
